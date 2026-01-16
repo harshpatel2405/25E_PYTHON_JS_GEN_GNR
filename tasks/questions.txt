@@ -1,4 +1,7 @@
 Question 1: Write a Python program to create a Number Guessing Game using only if–else statements.
+import random
+
+number = random.randint(1,50)
 
 Requirements :
 The program must generate a random number between 1 and 50.
@@ -36,3 +39,52 @@ Output Rules
     → Minimum Balance Violation
   Otherwise
     → Transaction Successful
+
+===============================================================================================>
+Question 3 : Write a Python program that takes two integer inputs:
+
+choice
+value
+
+Use a match-case statement on choice and apply conditional logic inside each case as per the rules below.
+
+🔹 Rules
+Case 1: Temperature Analysis
+
+  If value is below 0
+  → print FREEZING
+
+  Else if value is between 0 and 15 (inclusive)
+  → print COLD
+
+  Else if value is between 16 and 30 (inclusive)
+  → print WARM
+
+  Else
+  → print HOT
+
+Case 2: Electricity Bill Slab Evaluation
+  If value is ≤ 100 units
+  → print LOW-USAGE
+
+  Else if value is between 101 and 300 units
+  → print MEDIUM-USAGE
+
+  Else if value is greater than 300 units
+  → print HIGH-USAGE
+
+Case 3: Login Attempt Validation
+  If value is 0
+  → print NO-ATTEMPT
+
+  Else if value is between 1 and 3 (inclusive)
+  → print VALID-ATTEMPT
+
+  Else if value is between 4 and 5 (inclusive)
+  → print WARNING
+
+  Else
+  → print ACCOUNT-BLOCKED
+
+Default Case
+  Print INVALID CHOICE

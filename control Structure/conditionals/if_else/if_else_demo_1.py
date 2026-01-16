@@ -37,3 +37,13 @@ else:
         print("B is Greater...")
     else:
         print("C is Greater...")
+
+
+'''
+if condition:
+    #logic
+elif condition:
+    #logic
+else:
+    #logic
+'''
