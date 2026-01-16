@@ -1,0 +1,28 @@
+PYTHON
+------
+Realted to data
+
+brackets 
+:
+
+indentation
+
+
+print
+input
+
+datatype
+
+int a;
+
+int a;
+
+a
+
+
+a
+
+
+
+a
+

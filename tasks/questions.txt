@@ -1,0 +1,38 @@
+Question 1: Write a Python program to create a Number Guessing Game using only if–else statements.
+
+Requirements :
+The program must generate a random number between 1 and 50.
+The user must enter one guess only.
+Compare the guessed number with the generated number and display messages as per the rules below.
+
+Conditions :
+If the guessed number is equal to the random number
+→ Print: 🎉 Correct Guess! You Win
+
+If the guessed number is greater than the random number
+→ Print: 📈 Too High
+
+If the guessed number is less than the random number
+→ Print: 📉 Too Low
+
+If the guessed number is less than 1 or greater than 50
+→ Print: ❌ Invalid Guess
+
+
+Question 2 : ATM Withdrawal Validator . An ATM allows withdrawal based on account balance and withdrawal amount.
+
+Inputs:
+  balance
+  amount
+
+Output Rules
+  If amount ≤ 0
+    → Invalid Amount
+  If amount > balance
+    → Insufficient Balance
+  If amount > 40000
+    → Daily Limit Exceeded
+  If balance − amount < 1000
+    → Minimum Balance Violation
+  Otherwise
+    → Transaction Successful
