@@ -8,6 +8,7 @@ venv/
 env/
 .venv/
 ENV/
+*.md
 
 # Environment variables
 .env
