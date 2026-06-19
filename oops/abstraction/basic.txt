@@ -1,0 +1,16 @@
+abstract class 
+partial abstraction
+atleast one abstract method
+other methods can be normal 
+we can use constructor
+functionality + rules
+
+
+
+
+interface 
+complete/full abstraction
+all methods should be abstract methods only
+no method should contain any implementation
+we cannot use constructor
+only rules
