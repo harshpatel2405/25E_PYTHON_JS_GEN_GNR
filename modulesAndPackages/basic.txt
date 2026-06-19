@@ -1,0 +1,9 @@
+Modules
+-------
+Python file which will be containing logic 
+To avoid rewritability of code 
+reuse functionality 
+
+PAckages 
+--------
+group of Modules

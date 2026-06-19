@@ -1,0 +1,6 @@
+try and except
+
+try:
+    code which may give you error on run time and if not handled properly , can lead to program failure
+except : 
+    display appropriate message to the user and continuing rest of the program

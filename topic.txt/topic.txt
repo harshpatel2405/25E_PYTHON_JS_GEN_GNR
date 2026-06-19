@@ -1,0 +1,33 @@
+Introduction to Python  (print , input)
+Variables and Datatypes (operators)
+Control Structure
+    conditionals 
+        nested
+    loop 
+        nested
+Functions
+Data Structure
+    List 
+    set 
+    tuple 
+    dictionary 
+Strings
+OOPS 
+    Class Object 
+    Constructor
+    Inheritance 
+    Polymorphism 
+    Abstraction 
+    Encapsulation
+
+
+Modules and Packages 
+Exception Handling
+File handling 
+Advanced Python -- Functions (Decorators)
+Numpy and Pandas (basic)
+
+Monday    -- 2-4
+Wednesday -- 2-4
+Friday    -- 2-4
+Sunday    -- 12-2
