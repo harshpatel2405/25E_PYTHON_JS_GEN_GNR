@@ -1,0 +1,11 @@
+open -> opens file in (modes)
+
+modes -> r, w ,a, rb, wb, ab
+
+default mode -> r
+
+w -> overrides data and creates a new file if does not exist 
+a -> append data and creates a new file if does not exist 
+r -> reads data and does not create a new file only read from existing files 
+
+close
