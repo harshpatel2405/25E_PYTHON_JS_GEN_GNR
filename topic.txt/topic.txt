@@ -30,4 +30,3 @@ Numpy and Pandas (basic)
 Monday    -- 2-4
 Wednesday -- 2-4
 Friday    -- 2-4
-Sunday    -- 12-2
