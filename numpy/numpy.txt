@@ -1,0 +1,22 @@
+1. Why do we need numpy?
+1 million students -> marks -> list 
+
+10 million -> list will become slow  -> 10s
+
+Numpy -> list -> 20 - 100x faster  -> 0.1 to 0.5 sec 
+
+Numpy -> Numerical Python  -> made in C Language 
+Python Library 
+
+maths , stats , machine learning , ai 
+
+array 
+
+[10,20,30]
+[10 20 30]
+
+fast 
+memory efficient 
+matrix calculations 
+
+pip install numpy
